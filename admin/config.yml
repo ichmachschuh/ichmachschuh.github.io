@@ -3,7 +3,8 @@
 backend:
   name: git-gateway
   branch: gh-posts # Branch to update (optional; defaults to master)
-media_folder: 'assets/uploads'
+  repo: ichmachschuh/ichmachschuh.github.io.git
+  media_folder: 'assets/uploads'
 collections:
   - name: 'blog'
     label: 'Blog'
