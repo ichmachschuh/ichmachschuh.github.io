@@ -5,6 +5,7 @@ backend:
   branch: gh-posts # Branch to update (optional; defaults to master)
   repo: ichmachschuh/ichmachschuh.github.io.git
   media_folder: 'assets/uploads'
+media_folder: "assets/images/uploads" 
 collections:
   - name: 'blog'
     label: 'Blog'
